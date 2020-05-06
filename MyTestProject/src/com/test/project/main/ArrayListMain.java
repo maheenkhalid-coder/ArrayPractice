@@ -7,7 +7,7 @@ public class ArrayListMain {
 	public static void main(String[] args) {
 		
 		
-		ArrayListMain arrayListMain = new ArrayListMain();
+			ArrayListMain arrayListMain = new ArrayListMain();
 
 		arrayListMain.arraysFirst();
 		arrayListMain.arraysSecond();
